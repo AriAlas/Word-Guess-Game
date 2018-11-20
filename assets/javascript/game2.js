@@ -121,7 +121,7 @@ document.onkeyup = function(event) {
         document.getElementById("gremaining").textContent = guessesRemaining;
 
         if (guessesRemaining === 0) {
-            alert("You lose");
+            alert("You lose, the country was " + randomCountry);
             startOver();
 
         }
