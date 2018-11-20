@@ -183,6 +183,7 @@ function startOver() {
     underScores.push("_");
     document.getElementById("underscores").textContent = underScores.join(" ");
     document.getElementById("letters-guessed").textContent = wrongGuesses;
+    document.getElementById("gremaining").textContent = guessesRemaining;
     // document.getElementById("question-mark").setAttribute("src", "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png");
 
 }
