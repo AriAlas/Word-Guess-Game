@@ -266,7 +266,7 @@ function flagJapan () {
 };
 function flagEgypt () {
     var egypt = document.getElementById("question-mark");
-    egypt.setAttribute("src", "http://flags.fmcdn.net/data/flags/w580/jp.png");
+    egypt.setAttribute("src", "http://flags.fmcdn.net/data/flags/w580/eg.png");
     egypt.setAttribute("alt", "egypt flag");
 };
 function flagFrance () {
