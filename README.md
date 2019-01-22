@@ -7,6 +7,5 @@ Press any key to start
 ## Usage
 In order to play this game go to: https://arialas.github.io/Word-Guess-Game/
 
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
