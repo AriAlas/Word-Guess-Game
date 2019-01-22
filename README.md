@@ -1,7 +1,12 @@
 # Word-Guess-Game
 
-Hangman Game
+Your goal is to dicover the hidden word, you are just given underscores reflecting the length of the word. The theme of this game is countries.
 
-Theme: Countries
-Press any key to get started.
-After 10 wrong guesses you lose.
+Press any key to start
+
+## Usage
+In order to play this game go to: https://arialas.github.io/Word-Guess-Game/
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
